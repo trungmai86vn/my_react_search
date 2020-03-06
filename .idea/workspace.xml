@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cfca782-cc5c-4ad2-a19a-6c1ffcbc5cdb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Search.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Search.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +15,20 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,6 +111,7 @@
       <workItem from="1582935811970" duration="6434000" />
       <workItem from="1582969501601" duration="11231000" />
       <workItem from="1582984706822" duration="336000" />
+      <workItem from="1583490180155" duration="1893000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1582984122717</created>
@@ -117,27 +134,46 @@
       <option name="project" value="LOCAL" />
       <updated>1582984815877</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changed author name color">
+      <created>1583491330218</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583491330218</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First commit" />
     <MESSAGE value="Edit CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit CSS" />
+    <MESSAGE value="Changed author name color" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed author name color" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Notifications" timestamp="1582983921054">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2472" y="178" key="#Notifications/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582983921054" />
-    <state x="2007" y="113" width="1174" height="791" key="CommitChangelistDialog2" timestamp="1582984815224">
+    <state x="2007" y="113" width="1174" height="791" key="CommitChangelistDialog2" timestamp="1583492132304">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2007" y="113" width="1174" height="791" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582984815224" />
+    <state x="2007" y="113" width="1174" height="791" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583492132304" />
     <state x="2606" y="211" key="FileChooserDialogImpl" timestamp="1582984678407">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -175,15 +211,19 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582984076397" />
-    <state x="2501" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1582984725886">
+    <state x="2501" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1583490179844">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1582969556131" />
-    <state x="2501" y="298" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582984725886" />
+    <state x="2501" y="298" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583490179844" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582935960206" />
     <state x="2689" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582984918884">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2689" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582984918884" />
+    <state x="2578" y="311" key="git4idea.merge.GitPullDialog" timestamp="1583491578165">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2578" y="311" key="git4idea.merge.GitPullDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583491578165" />
   </component>
 </project>
